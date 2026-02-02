@@ -61,3 +61,8 @@ Backend Developer
 
 - GitHub: https://github.com/liviadfsilva 
 - LinkedIn: https://linkedin.com/in/liviadfsilva
+
+<br/>
+
+## Licence 📋
+This software is licenced under the MIT Licence.

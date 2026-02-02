@@ -6,7 +6,7 @@ services:
     depends_on:
       - mongo
     volumes:
-      - ./app:/app/app
+      - .:/app
     restart: unless-stopped
 
   mongo:
